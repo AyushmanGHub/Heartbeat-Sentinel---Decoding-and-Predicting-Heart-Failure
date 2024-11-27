@@ -16,7 +16,7 @@ Cardiovascular diseases (CVDs) simply Heart disease remain one of the leading ca
 <img src="plots/03.png" alt="Alt Text" width="800" height ="200"/>
 <img src="plots/04.png" alt="Alt Text" width="800" height ="200"/>
 
-### Figure 04. Scatter matrix of Numerical Dta
+### Figure 04. Scatter matrix of Numerical Data
 <img src="plots/05.png" alt="Alt Text" width="800" height ="450"/>
 
 
