@@ -60,5 +60,5 @@ This project underscores the potential of machine learning in healthcare, partic
 * Integration of these models into real-time clinical systems could provide immediate risk assessments, enabling proactive healthcare interventions.
 
 <hr style="border: 0; height: 3px; background-color: blue;">
-#### If want to know more about this project there are python Notebook file, Project Paper and all other resources included in same repository.
-#### Feel free to reach out, I'm open to engaging in meaningful conversations and exchanging ideas on these areas. I welcome the chance to explore new insights, collaborate on projects, and contribute to ongoing discussions in these fields.
+### If want to know more about this project there are python Notebook file, Project Paper and all other resources included in same repository.
+### Feel free to reach out, I'm open to engaging in meaningful conversations and exchanging ideas on these areas. I welcome the chance to explore new insights, collaborate on projects, and contribute to ongoing discussions in these fields.
