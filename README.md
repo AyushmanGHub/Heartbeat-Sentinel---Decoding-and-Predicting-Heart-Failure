@@ -21,7 +21,7 @@
 
 
 ## Feature selection and training
-### Figure 05. Scatter matrix of Numerical Dta
+### Figure 05. Significance of features for (a) Random Forest Model, (b) XGBoost Model
 <img src="plots/06.png" alt="Alt Text" width="800"/>
 
 
