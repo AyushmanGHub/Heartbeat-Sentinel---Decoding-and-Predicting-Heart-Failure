@@ -7,7 +7,7 @@
 ## Exploratory Data Analysis with Visualisation
 
 ### Figure 01. Correlation Matrix Heatmap
-<img src="plots/01.png" alt="Alt Text" width="800"/>
+<img src="plots/01.png" alt="Alt Text" width="800" height ="200"/>
 
 ### Figure 02. Histogram of Categorical Data
 <img src="plots/02.png" alt="Alt Text" width="800"/>
