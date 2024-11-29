@@ -1,9 +1,8 @@
 
 
-<div style="text-align: center;">
-  <span style="color: #4A90E2; font-size: 35px; font-weight: bold;">Heartbeat Sentinel - Decoding and Predicting Heart Failure</span>
-  <hr style="border: 1px dashed grey; width: 80%;"/>
-</div>
+# Heartbeat Sentinel - Decoding and Predicting Heart Failure</span>
+<hr style="border: 1px dashed grey; width: 80%;"/>
+
 
 
 Cardiovascular diseases (CVDs) simply Heart disease remain one of the leading causes of mortality globally, underscoring the importance of early diagnosis and effective risk prediction strategies. This project aims on predicting wheather a person is havig a heart failure risk or not. Using historical data, the project employs machine learning techniques, specifically two models are used (a) **Random Forest Model** and (b) **XGBoost Model** trained on a diverse dataset, incorporating features such as age, gender, cholesterol levels, blood pressure, glucose levels, and other clinical variables. The feature set is prepared by excluding the target variables, and the model is trained on the remaining features. The performance of the models are presented as confusion matrix and are evaluated on the metrices like **Accuracy**, **precision**, **Recall**, **F1 score**  and **ROC/AUC** for both models. This approach provides a robust way to predict heart risk, which in turn provides valuable insights for medical professionals, facilitating early intervention and personalized treatment strategies to mitigate heart disease risks.
