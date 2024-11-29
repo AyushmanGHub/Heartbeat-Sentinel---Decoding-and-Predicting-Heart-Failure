@@ -1,4 +1,5 @@
-<p style="font-size: 25px; margin-bottom: 3px;">Project  Topic: Healthcare Data Analysis and Disease Prediction</p>
+
+
 ## Heartbeat Sentinel - Decoding and Predicting Heart Failure
 
 <hr style="border: 0; height: 3px; background-color: black;">
