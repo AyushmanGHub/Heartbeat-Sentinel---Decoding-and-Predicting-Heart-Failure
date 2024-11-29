@@ -1,6 +1,10 @@
 
 
-## Heartbeat Sentinel - Decoding and Predicting Heart Failure
+<div style="text-align: center;">
+  <span style="color: #4A90E2; font-size: 35px; font-weight: bold;">Heartbeat Sentinel - Decoding and Predicting Heart Failure</span>
+  <hr style="border: 1px dashed grey; width: 80%;"/>
+</div>
+
 
 <hr style="border: 0; height: 3px; background-color: black;">
 
