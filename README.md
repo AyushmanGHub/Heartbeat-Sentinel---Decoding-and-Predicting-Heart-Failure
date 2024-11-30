@@ -1,6 +1,20 @@
 ## Project  Topic: Healthcare Data Analysis and Disease Prediction
 
-# Heartbeat Sentinel - Decoding and Predicting Heart Failure</span>
+Here’s an enhanced and attractive version of your README note:
+
+---
+
+## 🌐 **Try it Live!**  
+
+🚀 Experience the **Heart Disease Prediction App** in action:  
+👉 [**Check it out here!**](https://heartbeatsentineldecodingandpredictingheartfailure.streamlit.app/)  
+
+🩺 Predict heart disease risk with ease using advanced Machine Learning models.  
+💻 Explore the power of data-driven insights in healthcare.  
+
+---
+
+Feel free to customize it further! Let me know if you'd like more tweaks. 😊
 <hr style="border: 1px dashed grey; width: 80%;"/>
 
 
