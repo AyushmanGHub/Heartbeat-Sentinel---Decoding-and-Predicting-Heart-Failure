@@ -1,7 +1,4 @@
 ## Project  Topic: Healthcare Data Analysis and Disease Prediction
-
-Here’s an enhanced and attractive version of your README note:
-
 ---
 
 ## 🌐 **Try it Live!**  
@@ -13,8 +10,6 @@ Here’s an enhanced and attractive version of your README note:
 💻 Explore the power of data-driven insights in healthcare.  
 
 ---
-
-Feel free to customize it further! Let me know if you'd like more tweaks. 😊
 <hr style="border: 1px dashed grey; width: 80%;"/>
 
 
