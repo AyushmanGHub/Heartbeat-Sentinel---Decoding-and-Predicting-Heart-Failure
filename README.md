@@ -1,6 +1,6 @@
 ## Project  Topic: Healthcare Data Analysis and Disease Prediction
 ---
-
+# Heartbeat Sentinel: Decoding and Predicting Heart Failure
 ## 🌐 **Try it Live!**  
 
 🚀 Experience the **Heart Disease Prediction App** in action:  
